@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"songo-oo/array"
+	"songo-oo/interfaces"
 	"songo-oo/maps"
 	"songo-oo/slices"
 	"songo-oo/structs"
@@ -20,4 +21,5 @@ func main() {
 	fmt.Println("Carro externo", car.Info())
 	structs.ShowHeranca()
 	structs.ShowJSON()
+	interfaces.Show()
 }
