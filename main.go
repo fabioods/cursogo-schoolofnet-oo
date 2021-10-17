@@ -22,4 +22,5 @@ func main() {
 	structs.ShowHeranca()
 	structs.ShowJSON()
 	interfaces.Show()
+	interfaces.ShowEmptyInterfaces()
 }
