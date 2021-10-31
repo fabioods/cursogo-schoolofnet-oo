@@ -1,12 +1,12 @@
 package main
 
 import (
+	"cursogo-schoolofnet-oo/array"
+	"cursogo-schoolofnet-oo/interfaces"
+	"cursogo-schoolofnet-oo/maps"
+	"cursogo-schoolofnet-oo/slices"
+	"cursogo-schoolofnet-oo/structs"
 	"fmt"
-	"songo-oo/array"
-	"songo-oo/interfaces"
-	"songo-oo/maps"
-	"songo-oo/slices"
-	"songo-oo/structs"
 )
 
 func main() {
